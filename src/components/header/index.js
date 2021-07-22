@@ -69,10 +69,7 @@ const Header = () => {
           </IntlContextConsumer>
         </li>
         <li>
-          <a
-            href="https://www.weezevent.com/serverlessdays-paris-2021"
-            className={classes.button}
-          >
+          <a href="https://www.weezevent.com/serverlessdays-paris-2021" className={classes.button}>
             <FormattedMessage id="title.call-to-action" />
           </a>
         </li>
